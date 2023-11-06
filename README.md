@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/codewars/branding/master/light-text-logo.png">
 
 ![py](https://img.shields.io/badge/python-v3.11-green)
-![cw-micro](https://www.codewars.com/users/oHqte/badges/micro)
+![cw-micro](https://www.codewars.com/users/kavin81/badges/micro)
 
 *from codewars [code of conduct](https://docs.codewars.com/community/rules/#:~:text=Be%20honorable.%20Cheating,every%20possible%20way)*:
 >Be honorable. Cheating is discouraged. If you find a way to complete a kata that falls outside the kata itself (notably but not limited to: exploiting Codewars's test framework, website and servers), then refrain from doing so. Violators will be banned for such usage. Codewars has algorithms to detect some forms of cheating but does not attempt to track down every possible way.
@@ -60,4 +60,4 @@ Honor represents the level of respect a user has earned from the community, base
 
 | <a id="5kyu">5kyu</a>                                                          	| <a id="4kyu">4kyu</a>                                                          	| <a id="3kyu">3kyu</a>                                                                	|
 |--------------------------------------------------------------------------------	|--------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------	|
-| <a href="https://github.com/oHqte/codewars/tree/main/5kyu"><u>`url`</u></a> 	| <a href="https://github.com/oHqte/codewars/tree/main/4kyu"><u>`url`</u></a> 	| <a href="https://github.com/oHqte/codewars/tree/main/3kyu"><u>`url`</u></a> 	|
+| <a href="https://github.com/kavin81/codewars/tree/main/5kyu"><u>`url`</u></a> 	| <a href="https://github.com/kavin81/codewars/tree/main/4kyu"><u>`url`</u></a> 	| <a href="https://github.com/kavin81/codewars/tree/main/3kyu"><u>`url`</u></a> 	|
